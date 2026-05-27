@@ -17,4 +17,4 @@ A C++/Python program that implements an Extended Kalman Filter in order to filte
 # Sample Result
 ![EKF Output Trajectory](ekf_comparison.png)
 
-The EKF is able to successfully filter out radar noise and output a significantly cleaner trajectory.
+The EKF is able to successfully filter out radar noise and output a very clean trajectory.
